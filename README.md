@@ -1,5 +1,4 @@
 # DS-3002
-Repository for DS 3002
 
 Quiz #2 Instructions
 
